@@ -11,4 +11,4 @@ REM az login
 REM az acr login --name jbj2CR
 REM docker tag redwine jbj2cr.azurecr.io/redwine:v1
 REM docker push jbj2cr.azurecr.io/redwine:v1
-REM az acr repository list --name jbjCR --output table
+REM az acr repository list --name jbj2CR --output table
